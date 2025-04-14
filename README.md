@@ -1,5 +1,9 @@
-Hello!! I'm Saugat. 
-I love ⚽ and programming.
+<div align="center">
+    Hello! I'm Saugat.
+    I love ⚽ and programming.
+</div>
+
+<img src="./always_something_above_vagabond.jpeg" />
 
 <!---
 srj-17/srj-17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
