@@ -1,11 +1,12 @@
 <div align="center">
-    Hello! I'm Saugat.
-    I love ⚽ and programming.
+    Hello!
 </div>
 
 ---
 
-<img src="./always_something_above_vagabond.jpeg" />
+<div align="center">
+    <img src="./always_something_above_vagabond.jpeg" width="70%" />    
+</div>
 
 ---
 
